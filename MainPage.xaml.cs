@@ -1,4 +1,4 @@
-﻿namespace GaND
+﻿namespace GraND
 {
 	public partial class MainPage : ContentPage
 	{

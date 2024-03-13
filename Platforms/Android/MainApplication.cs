@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace GaND
+namespace GraND
 {
 	[Application]
 	public class MainApplication : MauiApplication

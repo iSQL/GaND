@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace GaND
+namespace GraND
 {
 	public static class MauiProgram
 	{

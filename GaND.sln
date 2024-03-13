@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaND", "GaND.csproj", "{81B6E6EF-1884-4229-918B-67E2350A4246}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraND", "GraND.csproj", "{81B6E6EF-1884-4229-918B-67E2350A4246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraNDWeb", "..\GandWeb\GraNDWeb.csproj", "{77F2E71F-E745-471A-BC4E-95887D4A45D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "..\ClassLib\ClassLib.csproj", "{54849393-8E59-470A-B0EC-F88BE523B97A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +21,14 @@ Global
 		{81B6E6EF-1884-4229-918B-67E2350A4246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81B6E6EF-1884-4229-918B-67E2350A4246}.Release|Any CPU.Build.0 = Release|Any CPU
 		{81B6E6EF-1884-4229-918B-67E2350A4246}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{77F2E71F-E745-471A-BC4E-95887D4A45D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F2E71F-E745-471A-BC4E-95887D4A45D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F2E71F-E745-471A-BC4E-95887D4A45D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F2E71F-E745-471A-BC4E-95887D4A45D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54849393-8E59-470A-B0EC-F88BE523B97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54849393-8E59-470A-B0EC-F88BE523B97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54849393-8E59-470A-B0EC-F88BE523B97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54849393-8E59-470A-B0EC-F88BE523B97A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

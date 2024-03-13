@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace GaND
+namespace GraND
 {
 	public class Program
 	{

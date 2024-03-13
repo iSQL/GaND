@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace GaND
+namespace GraND
 {
 	[Register("AppDelegate")]
 	public class AppDelegate : MauiUIApplicationDelegate
